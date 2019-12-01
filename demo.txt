@@ -1,3 +1,0 @@
-## This is an example file
-
-Created for #25 ReName, Move and Delete
