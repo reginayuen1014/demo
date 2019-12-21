@@ -13,3 +13,5 @@ This is bad edits made in master branch
 
 This is an edit made in badBranch. 
 >>>>>>> badBranch
+
+This are some changes made for stashing. 
